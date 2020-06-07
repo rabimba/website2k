@@ -21,8 +21,7 @@ copyright = "Rabimba Karanjai {year}"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-#theme = "academic"
-theme = "Ocean"
+theme = "academic"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
