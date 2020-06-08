@@ -41,8 +41,6 @@ date_format = "Jan 2006"
   date_end = "2018-01-05"
   description = """Worked with the Mixed Reality team on WebVR"""
 
-+++
-
 [[experience]]
 
   company = "IBM Research - Almaden"
@@ -52,7 +50,6 @@ date_format = "Jan 2006"
   date_end = "2017-01-08"
   description = """Worked with Security ans Storage team on Multiparty authentication and biometrics"""
 
-+++
 
 [[experience]]
 
@@ -63,7 +60,6 @@ date_format = "Jan 2006"
   date_end = "2015-08-08"
   description = """Worked with Security ans Storage team on Tamper Proof application framework"""
 
-+++
 
 [[experience]]
 
