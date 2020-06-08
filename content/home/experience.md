@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  <!-- title = "Professor" -->
+
   company = "Mozilla Research"
   company_url = ""
   location = "California"
