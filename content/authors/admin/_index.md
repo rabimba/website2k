@@ -55,7 +55,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/rabimba
-  - icon: linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rabimba
 # Link to a PDF of your resume/CV from the About widget.
@@ -76,4 +76,4 @@ user_groups:
 
 I am a Researcher and a Software Developer. I am a lead AI/ML architect for a startup called Twimbit. 
 I also speak at conferences, a Mozilla TechSpeaker and Google Developer Expert. I actively contribute in open source projects enjoy a nice brew of coffee and enojy giving seminars on the intersection of Web Mixed Reality and Machine Learning.
-🤖 🏋️‍♂️ ⛷️ 🚣‍♂️ ⛵ 🎮
+
