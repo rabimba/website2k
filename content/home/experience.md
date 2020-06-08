@@ -42,3 +42,36 @@ date_format = "Jan 2006"
   description = """Worked with the Mixed Reality team on WebVR"""
 
 +++
+
+[[experience]]
+
+  company = "IBM Research - Almaden"
+  company_url = ""
+  location = "California"
+  date_start = "2017-05-21"
+  date_end = "2017-01-08"
+  description = """Worked with Security ans Storage team on Multiparty authentication and biometrics"""
+
++++
+
+[[experience]]
+
+  company = "IBM Research - Almaden"
+  company_url = ""
+  location = "California"
+  date_start = "2015-05-21"
+  date_end = "2015-08-08"
+  description = """Worked with Security ans Storage team on Tamper Proof application framework"""
+
++++
+
+[[experience]]
+
+  company = "IBM TJ Watson Research Center"
+  company_url = ""
+  location = "New York"
+  date_start = "2014-05-21"
+  date_end = "2014-11-08"
+  description = """Worked on DeepQA pipeline for Data Extraction and Semantic Ontology for Watson"""
+
++++

@@ -27,7 +27,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "FOSDEM 2020"
     author = ""
     exclude_featured = false
     exclude_past = false
