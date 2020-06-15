@@ -3,7 +3,7 @@ title: 'NASSCOM: It-NIketan...An eventful saturday'
 date: 2011-07-25T08:14:00.003-05:00
 draft: false
 aliases: [ "/2011/07/nasscom-it-niketanan-eventful-saturday.html" ]
-tags : [IT-Niketan (NASSCOM)]
+tags : [IT-Niketan,NASSCOM]
 ---
 
   

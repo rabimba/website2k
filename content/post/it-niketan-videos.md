@@ -3,7 +3,7 @@ title: 'IT-Niketan Videos'
 date: 2011-08-28T14:08:00.000-05:00
 draft: false
 aliases: [ "/2011/08/it-niketan-videos.html" ]
-tags : [IT-Niketan (NASSCOM)]
+tags : [IT-Niketan, NASSCOM]
 ---
 
 Finally the videos are getting uploaded one by one. And I thought this is the time I start sharing them.  
