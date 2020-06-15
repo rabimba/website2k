@@ -3,7 +3,6 @@ title: 'April Fool: Gmail Motion and Goggle''s Pranks for 2011'
 date: 2011-04-01T12:03:00.004-05:00
 draft: false
 aliases: [ "/2011/04/april-fool-gmail-motion-and-goggles.html" ]
-tags : [Google And April Fool: Gmail Motion]
 ---
 
 APRIL FOOL!!!  
