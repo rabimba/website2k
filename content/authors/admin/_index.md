@@ -14,17 +14,20 @@ role: Software Developer, Public Speaker and Problem Solver
 
 # Organizations/Affiliations
 organizations:
-- name: Rice University
+- name: University of Houston
   url: ""
+- name: Rice University
+  url: "http://rabimba.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include distributed computing, privacy and security, phishing detection, blockchain, distributed web, web mixed reality and asutomated speech recognition.
 
 interests:
 - Immersive Web (MR/AR/VR)
-- Machine Learning
+- Blockchain
 - Security & Information Retrieval
-- Trusted Computing
+- Phishing and anomaly detection using ML
+- Speech Recognition
 
 education:
   courses:
@@ -74,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Researcher and a Software Developer. I am a lead AI/ML architect for a startup called Twimbit. 
-I also speak at conferences, a Mozilla TechSpeaker and Google Developer Expert. I actively contribute in open source projects enjoy a nice brew of coffee and enojy giving seminars on the intersection of Web Mixed Reality and Machine Learning.
+I am a Researcher and a Software Developer. I am working on the intersection of blockchain, privacy, phishing detetcion and also on automated speech recognition. 
+I also speak at conferences, am a Mozilla TechSpeaker and Google Developer Expert. I actively contribute in open source projects, enjoy a nice brew of coffee and enjoy giving seminars on the intersection of Web Mixed Reality and Machine Learning.
 
