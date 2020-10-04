@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 # title = "Accomplish&shy;ments"
-title = "Affiliations"
+title = "Accomplishments"
 subtitle = "Community Engagement"
 
 # Date format
@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[item]]
+  organization = "Grant For Web"
+  organization_url = "https://www.grantfortheweb.org/"
+  title = "Winner Grant for Web Spark Grant"
+  url = "https://www.grantfortheweb.org/blog/2020-spark-grantees"
+  certificate_url = ""
+  date_start = "2020-09-29"
+  date_end = "2021-04-29"
+  description = "Grant for Web 2020 Spark Grantee. Grant awarded for woking on Immersive Payments."
 
 [[item]]
   organization = "Mozilla"
