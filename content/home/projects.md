@@ -21,22 +21,14 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  
-   [[content.filter_button]]
-     name = "Immersive Payment"
-     tag = "grantforweb"
 
    [[content.filter_button]]
-     name = "NoConnect"
-     tag = "equalrating"
-
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+     name = "All"
+     tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Open Source"
+     tag = "oss"
   
   # [[content.filter_button]]
   #   name = "Other"

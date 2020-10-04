@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Grant For Web"
   organization_url = "https://www.grantfortheweb.org/"
-  title = "Winner Grant for Web Spark Grant"
+  title = "Grant for Web : Spark Grant Winner"
   url = "https://www.grantfortheweb.org/blog/2020-spark-grantees"
   certificate_url = ""
   date_start = "2020-09-29"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2015-06-01"
   date_end = ""
-  description = ""
+  description = "A Mozilla TechSpeaker, supported by Mozilla. Specializing in open web technologies including Web Mixed Reality."
 
 [[item]]
   organization = "Google"
@@ -57,6 +57,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2016-06-01"
   date_end = ""
-  description = ""
+  description = "An Expert and Mentor for mentoring Mozilla Open Leader co-horts. And also a Mozilla Open Leader."
 
 +++
