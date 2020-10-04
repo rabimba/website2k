@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "NDC Sydney"
-event:
+title: "NDC Sydney: WebXR for Humans"
+event: NDC Sydney
 event_url: https://ndcsydney.com/agenda/mixing-real-and-virtual-in-webxr-virtual-and-mixed-reality-for-everyone-0q49/0t1yjkxmraq
 location: Sydney
 address:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-10-04T21:39:55+05:30
-date_end: 2020-10-04T21:39:55+05:30
+date: 2020-10-12T21:39:55+05:30
+date_end: 2020-10-16T21:39:55+05:30
 all_day: false
 
 # Schedule page publish date (NOT talk date).
